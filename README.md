@@ -23,4 +23,4 @@ Implementar uma calculadora de descontos progressivos em Python, que aplica:
 ---
 ### Como Executar
 ```bash
-python3 calculadora-descontos.py
+python3 calculadora_descontos.py
