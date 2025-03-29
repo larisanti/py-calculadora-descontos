@@ -19,6 +19,9 @@ Implementar uma calculadora de descontos progressivos em Python, que aplica:
 - Formatação de saída
 - Validação de entradas
 
+---
+### Saída de Console
+![Saída de console esperada](https://github.com/larisanti/py-calculadora-descontos/blob/main/output.png)
 
 ---
 ### Como Executar
