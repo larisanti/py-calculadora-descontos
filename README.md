@@ -4,7 +4,7 @@ Atividade prática desenvolvida para a disciplina de **Lógica de Programação 
 
 
 ---
-### Objetivo
+### Objetivos
 Implementar uma calculadora de descontos progressivos em Python, que aplica:
 - 0% (valor < R$2500)
 - 4% (R$2500 ≤ valor < R$6000)
